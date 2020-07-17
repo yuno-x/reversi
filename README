@@ -1,4 +1,13 @@
-[Review]:
+|Reversi|
+[Description]
+This game can be played by two players.
+
+
+[License]
+Check a file "LICENSE".
+
+
+[Preview]
     A   B   C   D   E   F   G   H
   +---+---+---+---+---+---+---+---+
 1 |   |   |   |   |   |   |   |   |
